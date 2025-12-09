@@ -10,6 +10,6 @@ layout: default
   <p>
     <a href="mailto:lukeaharold@gmail.com">📧 Email</a> •
     <a href="https://www.linkedin.com/in/luke-harold" target="_blank">LinkedIn</a> •
-    <a href="/assets/resume.pdf" target="_blank">Resume</a>
+    <a href="/assets/Resume.pdf" target="_blank">Resume</a>
   </p>
 </div>
