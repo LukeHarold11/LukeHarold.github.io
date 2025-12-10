@@ -5,7 +5,7 @@ layout: default
 <div style="text-align:center;">
 
   <p>
-    <a href="mailto:lukeaharold@gmail.com">📧 Email</a> •
+    <a href="mailto:lukeaharold@gmail.com"> Email</a> •
     <a href="https://www.linkedin.com/in/luke-harold" target="_blank">LinkedIn</a> •
     <a href="assets/Resume.pdf" target="_blank">Resume</a>
   </p>
@@ -30,5 +30,6 @@ layout: default
 ### Projects
 **Forecasting Unemployment using ARIMA and Neural Network Auto Regression (NNAR)**  
 [View Project Report](projects/Forecasting_project.html)
+[Github Repository)(https://github.com/LukeHarold11/Forecasting_project)
 - Developed a rolling-window Neural Network Autoregression (NNAR) model in R to forecast unemployment under seasonal and structural shifts and compared performance to ARIMA models.  
 - Found that the NNAR model had the best accuracy overall and during the COVID period.
