@@ -12,6 +12,13 @@ layout: default
 </div>
 
 ---
+### About Me
+I recently graduated with my Master's in Economics from the University of Alberta where I took standard theory courses in Micro and Macro economics, econometrics 1 and 2 and elective courses in data analysis, 
+machine learning and forecasting and labour and international economics. I am currently working as an economic researcher with the Alberta Centre for Labour Market Research where I am studying the economic impacts of major natural resource projects on local labour markets. I am very interested in using machine learning methods for causal inference, such as the double machine learning (DML) framework and I applied causalforests in my research. 
+
+Outside of my work I enjoy strength training, playing sports and outdoor activities like hiking and skiing. As a former Usports athlete I enjoy competing and pushing myself physically! I am currently looking for roles in data science as well as roles in government and private consulting! 
+
+---
 
 ### Education
 **MA Economics**, University of Alberta
