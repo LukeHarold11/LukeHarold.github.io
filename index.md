@@ -5,7 +5,6 @@ layout: default
 <div style="text-align:center;">
 
   <p>
-    <a href="mailto:lukeaharold@gmail.com"> Email</a> •
     <a href="https://www.linkedin.com/in/luke-harold" target="_blank">LinkedIn</a> 
     
   </p>
